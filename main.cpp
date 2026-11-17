@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#include "mainwindow.hpp"
 
 #include <QApplication>
 #include <QLocale>
@@ -18,6 +18,6 @@ int main(int argc, char *argv[])
         }
     }
     MainWindow w;
-    w.show();
+	w.show();
     return QApplication::exec();
 }

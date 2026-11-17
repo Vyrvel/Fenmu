@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
+BreakStringLiterals: false
+ColumnLimit: 512
+NamespaceIndentation: All
+IndentAccessModifiers: true
